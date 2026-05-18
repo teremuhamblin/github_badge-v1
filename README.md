@@ -49,3 +49,31 @@
 7. Profite des badges
 
 > À Tester ...
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project_Status-Active-success?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <sub>
+    Projet <strong>github_badge</strong> — Suite professionnelle de génération de badges GitHub.<br/>
+    Développé par <strong>Teremu</strong> avec une approche qualité entreprise.
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/Teremu/github_badge?style=flat-square" />
+</p>
+
+<p align="center">
+  <sub>
+    © 2026 — Tous droits réservés.  
+    Distribué sous licence MIT.
+  </sub>
+</p>
+
+---
+
+
