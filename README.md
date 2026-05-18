@@ -1,5 +1,5 @@
- # 🚀 badge-booster
- > Débloquer 7 badges GitHub rapidement
+ # 🚀 github_badge
+ > Débloquer des badges GitHub rapidement
 
 - Ce repo est conçu pour débloquer plusieurs badges GitHub en quelques minutes.
 
