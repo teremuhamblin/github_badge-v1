@@ -1,4 +1,30 @@
- # 🚀 github_badge
+<!-- HEADER ENTREPRISE PREMIUM -->
+<p align="center">
+  <img src="https://img.shields.io/badge/github_badge-Enterprise%20Badge%20Suite-0052CC?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<h1 align="center">🏢 GitHub Badge — Enterprise Grade Badge Generator</h1>
+
+<p align="center">
+  <em>Un système professionnel pour générer, gérer et automatiser des badges GitHub dynamiques.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/v/tag/Teremu/github_badge?label=Version&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Teremu/github_badge/ci.yml?label=CI&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/github/license/Teremu/github_badge?style=for-the-badge&color=yellow" />
+</p>
+
+---
+
+<p align="center">
+  <strong>📦 Génération de badges • 🛡️ Qualité entreprise • ⚙️ Automatisation complète • 🚀 Workflows CI/CD optimisés</strong>
+</p>
+
+---
+
+# 🚀 github_badge
  > Débloquer des badges GitHub rapidement
 
 - Ce repo est conçu pour débloquer plusieurs badges GitHub en quelques minutes.
